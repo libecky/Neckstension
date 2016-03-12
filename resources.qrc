@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Giraffe.png</file>
+        <file>Instructions.png</file>
+        <file>donezo.png</file>
+        <file>Neck.png</file>
+        <file>burger.png</file>
+        <file>donut.png</file>
+        <file>hotdog.png</file>
+        <file>onigiri.png</file>
+        <file>soda.png</file>
+        <file>titlescreen.png</file>
+        <file>background.png</file>
+        <file>birb.png</file>
+        <file>poop.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>beepbeep.wav</file>
+    </qresource>
+</RCC>
